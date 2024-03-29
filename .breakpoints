@@ -1,0 +1,60 @@
+{
+  "files": {
+    "src/main/java/Main.java": [
+      {
+        "id": "9cb4a5a6-a23e-43aa-9498-4b1d28d5f172",
+        "line": 1,
+        "version": 246,
+        "index": 0
+      },
+      {
+        "id": "fd1250df-0b19-4239-bd94-9a678b751c42",
+        "line": 2,
+        "version": 246,
+        "index": 13
+      },
+      {
+        "id": "618c2412-e695-4fc8-8ce3-078fdb30036a",
+        "line": 3,
+        "version": 246,
+        "index": 57
+      },
+      {
+        "id": "80ef0362-53c2-4f48-8f3f-eead7042e358",
+        "line": 4,
+        "version": 246,
+        "index": 93
+      },
+      {
+        "id": "e4c0b062-4fe3-4b4e-acda-3c0c78f132f3",
+        "line": 5,
+        "version": 246,
+        "index": 97
+      },
+      {
+        "id": "ff161c19-24be-4e32-b891-c3f3d0655e7c",
+        "line": 6,
+        "version": 246,
+        "index": 100
+      },
+      {
+        "id": "0fe6c08b-46fe-4169-aa73-2e644e9c45c6",
+        "line": 7,
+        "version": 246,
+        "index": 145
+      },
+      {
+        "id": "95aee1a2-fde1-4302-b0b3-cac919f0c987",
+        "line": 8,
+        "version": 246,
+        "index": 176
+      },
+      {
+        "id": "6813bee5-00f9-4b0f-b0db-a47227a7de48",
+        "line": 9,
+        "version": 246,
+        "index": 190
+      }
+    ]
+  }
+}
